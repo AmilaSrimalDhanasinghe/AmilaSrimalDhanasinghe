@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi there 👋 I'm Amila Srimal
 
-<!--
-**AmilaSrimalDhanasinghe/AmilaSrimalDhanasinghe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ⚙️ I am an **M&E Engineer** with a passion for smart systems, MEP design, and automation.
+- 📚 Currently pursuing my Master's in Manufacturing Technology.
+- 🚀 Exploring the intersection of Engineering, AI prompting, and tech tools.
+- ⚡ Fun fact: I love building automated workflows and solving complex technical challenges.
 
-Here are some ideas to get you started:
+### 🛠️ Tech & Engineering Stack
+- **Engineering Tools:** AutoCAD, Revit, MEP Design Software, Technical Metering
+- **Programming & Docs:** Python, LaTeX, Git, Markdown
+- **Platforms & Workflow:** AWS, Web Hosting, Automation Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Stats
+![Amila's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmilaSrimalDhanasinghe&show_icons=true&theme=radical)
