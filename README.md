@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,30,40&height=200&section=header&text=Amila%20Srimal%20Dhanasinghe&fontSize=35&fontColor=ffffff&animation=fadeIn&fontY=35&text=M.Eng%20B.Eng.%20NDES&fontSize=24" width="100%" />
- 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,30,40&height=220&section=header&text=Amila%20Srimal%20Dhanasinghe&fontSize=32&fontColor=ffffff&animation=fadeIn&fontY=35&sub=M.Eng%20|%20B.Eng.%20|%20NDES&subFontSize=20&subColor=00f2fe" width="100%" />
 </div>
 
 <h3 align="center">🚀 MEP Engineer | Project Manager | Fire Protection Specialist</h3>
@@ -14,10 +13,10 @@
 ---
 
 ### 👨‍💻 About Me
-- ⚙️ **Professional Background:** Results-driven M&E Engineer and Project Manager with 9+ years of experience in designing, installing, and maintaining MEP and fire protection systems.
-- 📍 **Current Base:** Puchong, Selangor, Malaysia.
-- 📚 **Academic Pursuits:** <b>Master's in Manufacturing Technology</b> at UniKL MIDI, Malaysia | <b>BEng</B> (First Class) in Mechanical Engineering, University of Bolton, UK | <b>NDES</b> (Mechanical Engineering), IET, LK.
-- 🛠️ **Current Role:** M&E Engineer at Sinohydro Corporation (M) SDN BHD, Malaysia.
+- **Professional Background:** Results-driven M&E Engineer and Project Manager with 9+ years of experience in designing, installing, and maintaining MEP and fire protection systems[cite: 1].
+- **Current Base:** Puchong, Selangor, Malaysia[cite: 1].
+- **Academic Pursuits:** Master's in Manufacturing Technology at UniKL MIDI, Malaysia | BEng (First Class) in Mechanical Engineering, University of Bolton, UK | NDES (Mechanical Engineering), IET, Sri Lanka[cite: 1, 3].
+- **Current Role:** M&E Engineer at Sinohydro Corporation (M) SDN BHD, Malaysia[cite: 1].
 
 ---
 
@@ -36,26 +35,26 @@
 ---
 
 ### 💼 Professional Experience
-* **Sinohydro Corporation (M) SDN BHD** | M&E Engineer *(Feb 2026 - Present, Malaysia)*
-  * Managing RFI logs, shop drawings, QA/QC compliance (SIRIM standards), and directing HVAC/firefighting system installations.
-* **Kent Engineers (PVT) Ltd** | Engineer (MEP) *(Feb 2022 - Jul 2024, Seychelles)*
-  * Directed MEP installations for commercial and residential projects, monitored project cash flow, and handled site inspections.
-* **PIONERO Engineering & Suppliers** | Co-Founder / MEP Engineer *(Aug 2020 - Feb 2022, Sri Lanka)*
-  * Co-led operations, project proposals, cost estimations, and supplier coordination for diverse MEP jobs.
-* **Hayleys Fentons (MEP Division)** | Assistant Engineer *(Nov 2015 - Jul 2020, Sri Lanka)*
-  * Fire protection and mechanical systems design and execution for luxury apartments, hospitals, and industrial facilities.
+* **Sinohydro Corporation (M) SDN BHD** | M&E Engineer *(Feb 2026 - Present, Malaysia)*[cite: 1]
+  * Managing RFI logs, shop drawings, QA/QC compliance (SIRIM standards), and directing HVAC/firefighting system installations[cite: 1].
+* **Kent Engineers (PVT) Ltd** | Engineer (MEP) *(Feb 2022 - Jul 2024, Seychelles)*[cite: 2]
+  * Directed MEP installations for commercial and residential projects, monitored project cash flow, and handled site inspections[cite: 2].
+* **PIONERO Engineering & Suppliers** | Co-Founder / MEP Engineer *(Aug 2020 - Feb 2022, Sri Lanka)*[cite: 2]
+  * Co-led operations, project proposals, cost estimations, and supplier coordination for diverse MEP jobs[cite: 2].
+* **Hayleys Fentons (MEP Division)** | Assistant Engineer *(Nov 2015 - Jul 2020, Sri Lanka)*[cite: 2]
+  * Fire protection and mechanical systems design and execution for luxury apartments, hospitals, and industrial facilities[cite: 2].
 
 ---
 
 ### 🏢 Major Projects Handled
-- **Anse à la Mouche Development (Seychelles):** Luxury hotel and apartment complex systems.
-- **Capital Heights, Rajagiriya (Sri Lanka):** 32-floor luxury apartment complex MEP installations.
-- **Asiri Hospital, Kandy (Sri Lanka):** Full fire detection and suppression solutions compliant with national standards.
+- **Anse à la Mouche Development (Seychelles):** Luxury hotel and apartment complex systems[cite: 2].
+- **Capital Heights, Rajagiriya (Sri Lanka):** 32-floor luxury apartment complex MEP installations[cite: 2].
+- **Asiri Hospital, Kandy (Sri Lanka):** Full fire detection and suppression solutions compliant with national standards[cite: 2].
 
 ---
 
 ### 📜 Professional Qualifications & Certifications
-- **Registered Engineer:** Engineering Council Sri Lanka (Reg No: 501051)
+- **Registered Engineer:** Engineering Council Sri Lanka (Reg No: 501051)[cite: 1]
 - **Associate Member:** Institution of Incorporated Engineers, Sri Lanka (AMIIESL)
 - **Technical Certifications:** Certified in LV & ELV Systems, Electrician Certification (Single-phase), Power Tools & Work at Height Safety
 - **IT & Management:** NCICT (Distinction) & Contract Administration Training
@@ -71,5 +70,5 @@
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,30,40&height=100&section=footer&fontSize=15&fontColor=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.io/api?type=waving&color=gradient&customColorList=0,2,20,30,40&height=100&section=footer&fontSize=15&fontColor=ffffff" width="100%" />
 </div>
