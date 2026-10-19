@@ -15,7 +15,7 @@
 ### 👨‍💻 About Me
 - ⚙️ **Professional Background:** Results-driven M&E Engineer and Project Manager with 9+ years of experience in designing, installing, and maintaining MEP and fire protection systems.
 - 📍 **Current Base:** Puchong, Selangor, Malaysia.
-- 📚 **Academic Pursuits:** <b>Master's in Manufacturing Technology</b> at UniKL MIDI, Malaysia | <b>BEng</B> (First Class) in Mechanical Engineering, University of Bolton, UK | <b>NDES</> (Mechanical Engineering), IET, LK.
+- 📚 **Academic Pursuits:** <b>Master's in Manufacturing Technology</b> at UniKL MIDI, Malaysia | <b>BEng</B> (First Class) in Mechanical Engineering, University of Bolton, UK | <b>NDES</b> (Mechanical Engineering), IET, LK.
 - 🛠️ **Current Role:** M&E Engineer at Sinohydro Corporation (M) SDN BHD, Malaysia.
 
 ---
