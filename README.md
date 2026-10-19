@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,30,40&height=220&section=header&text=Amila%20Srimal%20Dhanasinghe&fontSize=32&fontColor=ffffff&animation=fadeIn&fontY=35&sub=M.Eng%20|%20B.Eng.%20|%20NDES&subFontSize=20&subColor=00f2fe" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,30,40&height=220&section=header&text=Amila%20Srimal%20Dhanasinghe&fontSize=32&fontColor=ffffff&animation=fadeIn&fontY=30&desc=M.Eng.%20|%20B.Eng.%20|%20NDES&descSize=18&descColor=00f2fe&descY=55" width="100%" />
 </div>
 
 <h3 align="center">🚀 MEP Engineer | Project Manager | Fire Protection Specialist</h3>
@@ -15,7 +15,7 @@
 ### 👨‍💻 About Me
 - **Professional Background:** Results-driven M&E Engineer and Project Manager with 9+ years of experience in designing, installing, and maintaining MEP and fire protection systems[cite: 1].
 - **Current Base:** Puchong, Selangor, Malaysia[cite: 1].
-- **Academic Pursuits:** Master's in Manufacturing Technology at UniKL MIDI, Malaysia | BEng (First Class) in Mechanical Engineering, University of Bolton, UK | NDES (Mechanical Engineering), IET, Sri Lanka[cite: 1, 3].
+- **Academic Pursuits:** Master's in Manufacturing Technology at UniKL MIDI, Malaysia | BEng (First Class) in Mechanical Engineering, University of Bolton, UK | NDES (Mechanical Engineering), IET, Sri Lanka.
 - **Current Role:** M&E Engineer at Sinohydro Corporation (M) SDN BHD, Malaysia[cite: 1].
 
 ---
