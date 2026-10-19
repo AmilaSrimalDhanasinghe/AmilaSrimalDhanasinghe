@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,30,40&height=200&section=header&text=Amila%20Srimal%20Dhanasinghe&fontSize=35&fontColor=ffffff&animation=fadeIn&fontY=35" width="100%" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,30,40&height=200&section=header&text=M.Eng%20B.Eng.%20NDES&fontSize=24&fontColor=ffffff&animation=fadeIn&fontY=35" width="100%" />
+ 
 </div>
 
 <h3 align="center">🚀 MEP Engineer | Project Manager | Fire Protection Specialist</h3>
